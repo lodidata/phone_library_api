@@ -1,0 +1,15 @@
+{
+    "name": "接口调用管理",
+    "alias": "product",
+    "description": "查号管理系统",
+    "version": "1.0.0",
+    "keywords": [],
+    "order": 0,
+    "services": [
+        "\\catchAdmin\\product\\ProductService"
+    ],
+    "aliases": [],
+    "files": [],
+    "requires": [],
+    "enable": true
+}
